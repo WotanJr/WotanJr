@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, my name is Hector 👋</h1>
 
-<h3 align="center"> I am a chemical engineer currently transitioning towards data analytics and data science, with environmental, lab and logistics manager background.</h3>
+<h3 align="center"> I am a chemical engineer currently transitioning towards data analytics and science, with environmental, logistics and project manager background.</h3>
 
 #<p align="left"> <img src="https://komarev.com/ghpvc/?username=WotanJr&label=Profile%20views&color=0e75b6&style=flat" alt="WotanJr" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **any Data Projects.**
 
-- ⚡ I'm a passionate follower of **Mr. Robot**.
+- ⚡ I'm a passionate follower of **Futurama**, early **TBBT** and **Mr. Robot**.
 
 - 📫 You can reach me at **https://www.linkedin.com/in/hector-gonzalez-mila/**
 
@@ -18,7 +18,7 @@
 
 
 <h3 align="left">Languages Modules and Tools:</h3>
-<p align="left"> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://python-visualization.github.io/folium/latest/" target="_blank" rel="noreferrer"> <img src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png" alt="folium" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://python-visualization.github.io/folium/latest/" target="_blank" rel="noreferrer"> <img src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png" alt="folium" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img src="https://en.m.wikipedia.org/wiki/File:QGIS_logo,_2017.svg#/media/File%3AQGIS_logo_minimal.svg" alt="qgis" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WotanJr&show_icons=true&locale=en&layout=compact" alt="WotanJr" /></p>
 
